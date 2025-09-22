@@ -127,7 +127,7 @@ class PixPayload
 }
 
 $pix = (new PixPayload())
-    ->setPixKey('11786862565')
+    ->setPixKey('13515135135')
     ->setDescription('Biotrade')
     ->setMerchantName('Joao Lucas Souza')
     ->setMerchantCity('Salvador')
@@ -249,4 +249,5 @@ $link = "pag_notafisc.php?venda_id=" . $vendaId.
     </script>
 </body>
 </html>
+
 
